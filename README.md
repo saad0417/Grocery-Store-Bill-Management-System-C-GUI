@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🛒 Grocery Store Bill Management System
 ### C++ · GUI · OOP · File Handling
 
