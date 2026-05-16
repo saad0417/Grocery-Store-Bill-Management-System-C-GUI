@@ -1,0 +1,32 @@
+Customer Name: Saad Akhtar
+==================================================
+                   BILL SUMMARY                   
+==================================================
+
+Date & Time:            2025-12-24 01:53:53
+Customer Name:          Saad Akhtar
+Items Purchased:        2
+Total Price:         Rs. 1800.00
+Discount:            Rs. 180.00
+Final Bill:          Rs. 1620.00
+
+==================================================
+       THANK YOU FOR SHOPPING WITH US!            
+==================================================
+
+Customer Name: Saad Akhtar
+==================================================
+                   BILL SUMMARY                   
+==================================================
+
+Date & Time:            2025-12-24 01:54:13
+Customer Name:          Saad Akhtar
+Items Purchased:        1
+Total Price:         Rs. 1800.00
+Discount:            Rs. 180.00
+Final Bill:          Rs. 1620.00
+
+==================================================
+       THANK YOU FOR SHOPPING WITH US!            
+==================================================
+

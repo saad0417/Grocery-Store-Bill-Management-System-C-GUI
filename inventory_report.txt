@@ -1,0 +1,225 @@
+=============== INVENTORY REPORT ===============
+Item Name           Price (Rs.)    Stock     
+------------------------------------------------
+Apple               120            50        
+Banana              40             30        
+Milk                80             20        
+Bread               45             25        
+Eggs                120            60        
+Rice                90             40        
+Sugar               55             35        
+Salt                20             45        
+Coffee              250            15        
+Tea                 150            20        
+------------------------------------------------
+Total Unique Items: 10
+Total Quantity of All Items: 340
+Out-of-Stock Items: 0
+Estimated Inventory Value: Rs. 30300
+================================================
+=============== INVENTORY REPORT ===============
+Item Name           Price (Rs.)    Stock     
+------------------------------------------------
+Apple               120            50        
+Banana              40             30        
+Milk                80             20        
+Bread               45             25        
+Eggs                120            60        
+Rice                90             40        
+Sugar               55             35        
+Salt                20             45        
+Coffee              250            15        
+Tea                 150            20        
+------------------------------------------------
+Total Unique Items: 10
+Total Quantity of All Items: 340
+Out-of-Stock Items: 0
+Estimated Inventory Value: Rs. 30300
+================================================
+=============== INVENTORY REPORT ===============
+Item Name           Price (Rs.)    Stock     
+------------------------------------------------
+Apple               120            50        
+Banana              40             30        
+Milk                80             20        
+Bread               45             25        
+Eggs                120            60        
+Rice                90             40        
+Sugar               55             35        
+Salt                20             45        
+Coffee              250            15        
+Tea                 150            20        
+------------------------------------------------
+Total Unique Items: 10
+Total Quantity of All Items: 340
+Out-of-Stock Items: 0
+Estimated Inventory Value: Rs. 30300
+================================================
+
+Date: 2025-05-22 02:28:19
+=============== INVENTORY REPORT ===============
+Item Name           Price (Rs.)    Stock     
+------------------------------------------------
+Apple               120            50        
+Banana              40             30        
+Milk                80             20        
+Bread               45             25        
+Eggs                120            60        
+Rice                90             40        
+Sugar               55             35        
+Salt                20             45        
+Coffee              250            15        
+Tea                 150            20        
+------------------------------------------------
+Total Unique Items: 10
+Total Quantity of All Items: 340
+Out-of-Stock Items: 0
+Estimated Inventory Value: Rs. 30300
+================================================
+
+Date: 2025-06-14 14:45:14
+=============== INVENTORY REPORT ===============
+Item Name           Price (Rs.)    Stock     
+------------------------------------------------
+Apple               120            0         
+Banana              40             30        
+Milk                80             20        
+Bread               45             25        
+Eggs                120            60        
+Rice                90             40        
+Sugar               55             35        
+Salt                20             45        
+Coffee              250            15        
+Tea                 150            20        
+------------------------------------------------
+Total Unique Items: 10
+Total Quantity of All Items: 290
+Out-of-Stock Items: 1
+Estimated Inventory Value: Rs. 24300
+================================================
+
+Date: 2025-06-14 14:47:43
+=============== INVENTORY REPORT ===============
+Item Name           Price (Rs.)    Stock     
+------------------------------------------------
+Apple               120            50        
+Banana              40             30        
+Milk                80             20        
+Bread               45             25        
+Eggs                120            60        
+Rice                90             40        
+Sugar               55             35        
+Salt                20             45        
+Coffee              250            15        
+Tea                 150            20        
+------------------------------------------------
+Total Unique Items: 10
+Total Quantity of All Items: 340
+Out-of-Stock Items: 0
+Estimated Inventory Value: Rs. 30300
+================================================
+
+Date: 2025-06-14 14:50:50
+=============== INVENTORY REPORT ===============
+Item Name           Price (Rs.)    Stock     
+------------------------------------------------
+Apple               120            50        
+Banana              40             30        
+Milk                80             20        
+Bread               45             25        
+Eggs                120            60        
+Rice                90             40        
+Sugar               55             35        
+Salt                20             45        
+Coffee              250            15        
+Tea                 150            20        
+------------------------------------------------
+Total Unique Items: 10
+Total Quantity of All Items: 340
+Out-of-Stock Items: 0
+Estimated Inventory Value: Rs. 30300
+================================================
+
+Date: 2025-06-14 14:58:25
+=============== INVENTORY REPORT ===============
+Item Name           Price (Rs.)    Stock     
+------------------------------------------------
+Apple               120            50        
+Banana              40             30        
+Milk                80             20        
+Bread               45             25        
+Eggs                120            60        
+Rice                90             40        
+Sugar               55             35        
+Salt                20             45        
+Coffee              250            15        
+Tea                 150            20        
+------------------------------------------------
+Total Unique Items: 10
+Total Quantity of All Items: 340
+Out-of-Stock Items: 0
+Estimated Inventory Value: Rs. 30300
+================================================
+
+Date: 2025-06-14 15:26:05
+=============== INVENTORY REPORT ===============
+Item Name           Price (Rs.)    Stock     
+------------------------------------------------
+Apple               120            50        
+Banana              40             30        
+Milk                80             20        
+Bread               45             25        
+Eggs                120            60        
+Rice                90             40        
+Sugar               55             35        
+Salt                20             45        
+Coffee              250            15        
+Tea                 150            20        
+------------------------------------------------
+Total Unique Items: 10
+Total Quantity of All Items: 340
+Out-of-Stock Items: 0
+Estimated Inventory Value: Rs. 30300
+================================================
+
+Date: 2025-06-29 00:42:29
+=============== INVENTORY REPORT ===============
+Item Name           Price (Rs.)    Stock     
+------------------------------------------------
+Apple               120            158       
+Banana              40             30        
+Milk                80             5         
+Bread               45             25        
+Eggs                120            60        
+Rice                90             40        
+Sugar               55             35        
+Salt                20             45        
+Coffee              250            15        
+Tea                 150            20        
+------------------------------------------------
+Total Unique Items: 10
+Total Quantity of All Items: 433
+Out-of-Stock Items: 0
+Estimated Inventory Value: Rs. 42060
+================================================
+
+Date: 2025-06-29 00:42:35
+=============== INVENTORY REPORT ===============
+Item Name           Price (Rs.)    Stock     
+------------------------------------------------
+Apple               120            158       
+Banana              40             30        
+Milk                80             5         
+Bread               45             25        
+Eggs                120            60        
+Rice                90             40        
+Sugar               55             35        
+Salt                20             45        
+Coffee              250            15        
+Tea                 150            20        
+------------------------------------------------
+Total Unique Items: 10
+Total Quantity of All Items: 433
+Out-of-Stock Items: 0
+Estimated Inventory Value: Rs. 42060
+================================================
